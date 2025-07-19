@@ -37,33 +37,14 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raju15022004/raju15022004/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raju15022004/raju15022004/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/raju15022004/raju15022004/output/pacman-contribution-graph.svg">
-</picture>
 
----
 
-## 🐍 Snake Eating My Contributions
-
-<img src="https://raw.githubusercontent.com/raju15022004/raju15022004/output/snake.svg" alt="Snake animation" />
-
----
 
 ## 🧠 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raju15022004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph" />
-  <br>
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raju15022004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graph" />
-</div>
-
----
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raju15022004&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" /><br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju15022004&theme=dark&hide_border=false" alt="GitHub Streak" /><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju15022004&layout=compact&theme=dark&hide_border=false" alt="Top Languages" /> </p>
 
 
 ---
