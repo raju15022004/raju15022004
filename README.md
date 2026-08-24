@@ -184,9 +184,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-  <img src="https://raw.githubusercontent.com/raju15022004/raju15022004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
+  <img src="https://raw.githubusercontent.com/raju15022004/raju15022004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 <!-- Currently Learning -->
