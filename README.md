@@ -1,7 +1,4 @@
-# raju15022004
 
-Project repository.
-```markdown
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=raju15022004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
